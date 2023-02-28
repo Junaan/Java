@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "redhat.vscode-quarkus",
+        "vscjava.vscode-maven",
+        "redhat.vscode-yaml",
+        "vscjava.vscode-java-debug"
+    ]
+}
